@@ -1,0 +1,122 @@
+body{
+    background-image: url(back66.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}header{
+    background-color: black;
+    display: flex;
+    height: 100px;
+}
+#home{
+    display: flex;
+    margin-left: 500px;
+    padding: 20px;
+}
+
+.a{
+    color: aliceblue;
+    padding: 10px;
+    text-decoration: none;
+    background-color: grey;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.navbar{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 400px;
+    padding: 10px;
+}
+.a:hover{
+    background-color: red;
+}
+
+#grid{
+    display: flex;
+    
+}
+h2{
+    text-align: center;
+    color: rgb(252, 27, 7);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+.img1 img{
+    padding: 10x;
+    margin-left: 250px;
+    border-radius: 10%;
+}
+.para1{
+    padding: 5px;
+    font-size: 14px;
+    color: chocolate;
+    margin-left: 200px;
+}
+.grid1{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 40px;
+    border: chocolate;
+    align-items: center;
+    margin-left: 200px;
+    
+}
+#vdo{
+    overflow: auto auto;
+    white-space: nowrap;
+}
+#vdo .slide{
+    display: inline-block;
+}
+
+form{
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(250, 239, 239);
+    border-radius: 10%;
+    margin-left: 500px;
+    
+}
+.inputbox{
+    padding: 20px;
+}
+label{
+    color: rgb(14, 15, 15);
+}
+.btn input{
+    background-color: aquamarine;
+}
+.btn input:hover{
+    background-color: rgb(2, 2, 2);
+}
+.cr{
+    display: flex;
+    margin-left: 100px;
+    
+}
+.last a{
+    color:sandybrown;
+    padding: 10px;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 300px;
+}
+.last{
+    margin-left: 120px;
+}
+footer{
+    padding: 30px;
+    background-color:    rgb(2, 1, 1);
+    margin-top: 30px;
+}
+.last{
+    display: flex
+}
+.last{
+    margin-left: 100px;
+}
